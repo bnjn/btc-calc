@@ -1,1 +1,1 @@
-Live version:
+[Live version](https://bnjn.github.io/btc-calc/)
