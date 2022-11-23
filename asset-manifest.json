@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/btc-calc/static/css/main.d045e48e.css",
+    "main.js": "/btc-calc/static/js/main.cd491ae5.js",
+    "static/js/787.b99d8728.chunk.js": "/btc-calc/static/js/787.b99d8728.chunk.js",
+    "index.html": "/btc-calc/index.html",
+    "main.d045e48e.css.map": "/btc-calc/static/css/main.d045e48e.css.map",
+    "main.cd491ae5.js.map": "/btc-calc/static/js/main.cd491ae5.js.map",
+    "787.b99d8728.chunk.js.map": "/btc-calc/static/js/787.b99d8728.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d045e48e.css",
+    "static/js/main.cd491ae5.js"
+  ]
+}
